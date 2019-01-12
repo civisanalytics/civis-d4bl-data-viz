@@ -1,0 +1,197 @@
+sex,race_ethnicity,year,percentage_estimate,percentage_stderr_estimate,note_on_percentage,count_estimate,count_stderr_estimate,note_on_count,has_relevant_NAs,sex_plot_label,race_ethnicity_plot_label
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2000,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2001,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2002,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2003,10.8,4.62,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2004,14.4,5.06,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2005,17.7,4.8,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2006,17.2,5.45,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2007,10.5,3.74,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2008,17.1,5.68,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2009,15.6,5.76,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2010,22.8,5.55,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2011,12.7,3.74,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2012,9.9,3.07,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Pacific Islander, non-Hispanic",2013,12.2,3.97,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,"All sexes in
+survey sample","Pacific Islander,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2000,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2001,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2002,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2003,19.3,2.61,NA,89e3,13300,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2004,20.5,2.69,NA,92e3,13400,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2005,18.8,2.5,NA,97e3,13700,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2006,19.8,2.16,NA,94e3,11100,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2007,19,2.08,NA,92e3,11100,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2008,22.7,2.69,NA,118e3,16300,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2009,20,2.35,NA,98e3,13100,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2010,17.9,2.27,NA,88e3,13100,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2011,20.2,2.33,NA,11e4,13900,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2012,18.9,2.22,NA,142e3,17300,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+All sexes in survey sample,"Two or more races, non-Hispanic",2013,15.6,1.92,NA,109e3,14600,NA,TRUE,"All sexes in
+survey sample","Two or more races,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2000,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2001,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2002,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2003,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2004,17.5,8.47,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2005,22.1,7.29,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2006,17.9,7.37,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2007,9.1,4.32,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2008,12.1,5.54,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2009,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2010,26.3,7.47,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2011,16.5,6.3,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2012,13.3,5.08,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Pacific Islander, non-Hispanic",2013,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Male,"Pacific Islander,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2000,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2001,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2002,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2003,21.8,3.93,NA,48e3,9800,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2004,19,3.62,NA,44e3,9400,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2005,17.5,2.88,NA,45e3,7600,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2006,20.1,2.8,NA,49e3,7600,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2007,20.9,3.25,NA,48e3,8100,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2008,27.2,3.58,NA,74e3,11300,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2009,21.6,3.24,NA,56e3,9900,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2010,22.1,3.56,NA,51e3,9600,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2011,18.7,2.91,NA,53e3,8800,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2012,22.6,3.01,NA,85e3,12100,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Male,"Two or more races, non-Hispanic",2013,16.1,2.79,NA,56e3,10300,NA,TRUE,Male,"Two or more races,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2000,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2001,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2002,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2003,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2004,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2005,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2006,16.5,7.32,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2007,12.1,5.5,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2008,20.4,7.75,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2009,14.1,5.95,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2010,19.4,7.05,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2011,9.6,4.02,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2012,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Pacific Islander, non-Hispanic",2013,16.6,7.45,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,TRUE,Female,"Pacific Islander,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2000,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2001,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2002,NA,NA,Data not available.,NA,NA,Data not available.,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2003,17,3.44,NA,4e4,9e3,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2004,22.2,4,NA,48e3,9700,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2005,20.1,3.83,NA,52e3,10600,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2006,19.6,3.27,NA,45e3,8e3,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2007,17.2,2.5,NA,44e3,7e3,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2008,17.8,3.42,NA,45e3,9400,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2009,18.3,2.99,NA,42e3,7300,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2010,14.2,2.74,NA,37e3,7400,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2011,21.8,3.47,NA,58e3,10100,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2012,15.2,2.88,NA,57e3,11e3,NA,TRUE,Female,"Two or more races,
+non-Hispanic"
+Female,"Two or more races, non-Hispanic",2013,15,2.85,NA,53e3,10600,NA,TRUE,Female,"Two or more races,
+non-Hispanic"

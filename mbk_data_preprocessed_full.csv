@@ -1,0 +1,631 @@
+sex,race_ethnicity,sex_plot_label,race_ethnicity_plot_label,year,percentage_estimate,percentage_stderr_estimate,note_on_percentage,count_estimate,count_stderr_estimate,note_on_count,has_relevant_NAs
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2000,23.5,0.52,NA,6234e3,143100,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2001,23.8,0.52,NA,6386e3,144800,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2002,23.7,0.36,NA,6475e3,103600,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2003,22.7,0.36,NA,623e4,105400,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2004,22.1,0.35,NA,616e4,105e3,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2005,21.9,0.42,NA,6125e3,123100,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2006,21.2,0.36,NA,593e4,105100,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2007,21.1,0.37,NA,5997e3,109600,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2008,20,0.34,NA,5669e3,97400,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2009,19.4,0.34,NA,5573e3,102200,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2010,19.5,0.34,NA,5727e3,104700,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2011,19.6,0.37,NA,5812e3,111600,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2012,18.7,0.34,NA,5647e3,103900,NA,FALSE
+All sexes in survey sample,All racial and ethnic groups in survey sample,"All sexes in
+survey sample","All racial and
+ethnic groups in
+survey sample",2013,17.5,0.35,NA,5243e3,106100,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2000,26.1,0.75,NA,3463e3,111200,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2001,26.6,0.75,NA,3569e3,112800,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2002,25.9,0.53,NA,3556e3,80200,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2003,25,0.52,NA,3453e3,80400,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2004,25,0.51,NA,3545e3,81500,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2005,24.1,0.52,NA,3387e3,77100,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2006,23.6,0.51,NA,3327e3,74200,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2007,23.5,0.51,NA,3388e3,75200,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2008,21.9,0.48,NA,3147e3,70700,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2009,21.7,0.49,NA,3144e3,74500,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2010,21.7,0.48,NA,3215e3,73e3,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2011,21.3,0.51,NA,3206e3,79e3,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2012,20.3,0.48,NA,3074e3,72700,NA,FALSE
+Male,All racial and ethnic groups in survey sample,Male,"All racial and
+ethnic groups in
+survey sample",2013,19.3,0.45,NA,292e4,71800,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2000,20.9,0.7,NA,277e4,100400,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2001,21.1,0.7,NA,2817e3,101300,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2002,21.5,0.5,NA,2919e3,73300,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2003,20.4,0.49,NA,2777e3,72600,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2004,19.2,0.48,NA,2614e3,70600,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2005,19.6,0.51,NA,2737e3,74200,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2006,18.8,0.44,NA,2603e3,64200,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2007,18.7,0.45,NA,2609e3,67500,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2008,18,0.44,NA,2522e3,65099.99999999999,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2009,17.1,0.43,NA,243e4,63e3,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2010,17.4,0.42,NA,2512e3,64099.99999999999,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2011,17.9,0.49,NA,2606e3,73900,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2012,17.2,0.46,NA,2573e3,71300,NA,FALSE
+Female,All racial and ethnic groups in survey sample,Female,"All racial and
+ethnic groups in
+survey sample",2013,15.6,0.45,NA,2323e3,68100,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2000,18.2,0.58,NA,3144e3,106400,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2001,17.9,0.59,NA,2984e3,104e3,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2002,18.5,0.42,NA,3148e3,75900,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2003,17.6,0.41,NA,3002e3,75300,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2004,17.2,0.4,NA,2983e3,75100,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2005,16.8,0.45,NA,2926e3,80400,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2006,16.6,0.42,NA,2879e3,76200,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2007,17.2,0.38,NA,2997e3,69600,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2008,15.6,0.39,NA,274e4,68300,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2009,15.4,0.38,NA,2737e3,71300,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2010,15.5,0.4,NA,2758e3,72600,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2011,15.9,0.41,NA,2793e3,72600,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2012,15.8,0.42,NA,2691e3,71500,NA,FALSE
+All sexes in survey sample,"White, non-Hispanic","All sexes in
+survey sample","White,
+non-Hispanic",2013,14.2,0.4,NA,2371e3,66300,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2000,28.8,1.44,NA,1114e3,59400,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2001,29,1.48,NA,1077e3,58700,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2002,27.5,1.02,NA,1045e3,41200,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2003,27.7,1.04,NA,1025e3,44e3,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2004,25.4,1.02,NA,93e4,41500,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2005,26.1,1.28,NA,995e3,50600,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2006,23.3,1.04,NA,907e3,42700,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2007,23.6,1.11,NA,918e3,44900,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2008,24.1,0.99,NA,944e3,40600,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2009,24,1.12,NA,96e4,46400,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2010,23.6,1.05,NA,962e3,45400,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2011,23.7,0.97,NA,995e3,42200,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2012,21.3,0.97,NA,91e4,43800,NA,FALSE
+All sexes in survey sample,"Black, non-Hispanic","All sexes in
+survey sample","Black,
+non-Hispanic",2013,20.2,1.02,NA,886e3,45900,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2000,43.3,1.56,NA,1716e3,73200,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2001,42.8,1.42,NA,2057e3,78300,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2002,41.6,1,NA,2031e3,57e3,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2003,39.7,1,NA,191e4,55800,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2004,39,0.98,NA,1941e3,56300,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2005,37.9,1.15,NA,1881e3,61700,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2006,37.3,0.97,NA,1815e3,5e4,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2007,34.6,1,NA,1761e3,54e3,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2008,33,0.97,NA,1654e3,49700,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2009,31.2,1,NA,1581e3,51900,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2010,30.8,0.89,NA,1686e3,50700,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2011,28.8,0.89,NA,1662e3,52900,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2012,26.5,0.81,NA,1652e3,50800,NA,FALSE
+All sexes in survey sample,Hispanic,"All sexes in
+survey sample",Hispanic,2013,25.9,0.95,NA,1636e3,61200,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2000,16.4,2.14,NA,193e3,27200,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2001,13.4,1.88,NA,173e3,25800,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2002,12,1.26,NA,159e3,17700,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2003,12.5,1.39,NA,142e3,16800,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2004,12.3,1.4,NA,135e3,16200,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2005,14.6,1.53,NA,16e4,17200,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2006,15.8,1.74,NA,178e3,19900,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2007,12.7,1.32,NA,152e3,16100.000000000002,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2008,11,1.18,NA,125e3,13500,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2009,12.2,1.25,NA,132e3,13700,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2010,12.3,1.27,NA,144e3,15100,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2011,14.6,2.13,NA,184e3,27600,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2012,12.1,1.08,NA,184e3,17400,NA,FALSE
+All sexes in survey sample,"Asian, non-Hispanic","All sexes in
+survey sample","Asian,
+non-Hispanic",2013,11.3,1.16,NA,179e3,18400,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2000,29.5,5.97,NA,68e3,16200,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2001,32.2,5.39,NA,95e3,19200,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2002,34,4.1,NA,91e3,13400,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2003,27.4,4.55,NA,53e3,10200,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2004,39.2,5.36,NA,65e3,11300,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2005,30.5,4.13,NA,52e3,8900,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2006,26.5,5.06,NA,43e3,12800,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2007,34.9,4.7,NA,7e4,14400,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2008,36.8,4.73,NA,75e3,15e3,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2009,22.3,3.17,NA,51e3,8800,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2010,27.8,3.85,NA,68e3,14700,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2011,25.1,3.8,NA,54e3,9700,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2012,24.5,4.06,NA,55e3,10200,NA,FALSE
+All sexes in survey sample,"American Indian/Alaska Native, non-Hispanic","All sexes in
+survey sample","American Indian/
+Alaska Native,
+non-Hispanic",2013,17,3.45,NA,47e3,12500,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2000,20,0.85,NA,1743e3,80800,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2001,20,0.87,NA,1675e3,79300,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2002,19.9,0.61,NA,1703e3,56900,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2003,19.3,0.6,NA,1654e3,56500,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2004,19.6,0.6,NA,1726e3,57800,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2005,18.6,0.58,NA,1621e3,52400,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2006,18.4,0.59,NA,1607e3,52900,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2007,19.2,0.57,NA,169e4,51400,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2008,17,0.6,NA,1512e3,54800,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2009,17.3,0.55,NA,1548e3,52400,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2010,16.9,0.56,NA,1519e3,51400,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2011,17,0.57,NA,1506e3,51700,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2012,17,0.63,NA,1451e3,53900,NA,FALSE
+Male,"White, non-Hispanic",Male,"White,
+non-Hispanic",2013,15.8,0.55,NA,1332e3,47700,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2000,33.3,2.2,NA,6e5,46e3,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2001,33.2,2.25,NA,573e3,45100,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2002,29.7,1.53,NA,528e3,30900,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2003,29.5,1.54,NA,512e3,31500,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2004,28.6,1.53,NA,496e3,30800,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2005,28.4,1.68,NA,512e3,31300,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2006,26.5,1.6,NA,495e3,31800,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2007,26.1,1.69,NA,497e3,33900,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2008,26.7,1.32,NA,501e3,26800,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2009,26.5,1.76,NA,509e3,35600,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2010,26.5,1.41,NA,523e3,29e3,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2011,26.4,1.49,NA,538e3,31800,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2012,23.4,1.36,NA,48e4,29400,NA,FALSE
+Male,"Black, non-Hispanic",Male,"Black,
+non-Hispanic",2013,22.8,1.29,NA,482e3,29300,NA,FALSE
+Male,Hispanic,Male,Hispanic,2000,46.1,2.17,NA,958e3,57700,NA,FALSE
+Male,Hispanic,Male,Hispanic,2001,46.1,1.96,NA,1176e3,63100,NA,FALSE
+Male,Hispanic,Male,Hispanic,2002,45.1,1.38,NA,1167e3,45400,NA,FALSE
+Male,Hispanic,Male,Hispanic,2003,42.9,1.37,NA,1124e3,44700,NA,FALSE
+Male,Hispanic,Male,Hispanic,2004,42.6,1.34,NA,1154e3,45400,NA,FALSE
+Male,Hispanic,Male,Hispanic,2005,41.1,1.65,NA,1083e3,46800,NA,FALSE
+Male,Hispanic,Male,Hispanic,2006,41.1,1.46,NA,106e4,39700,NA,FALSE
+Male,Hispanic,Male,Hispanic,2007,37.2,1.26,NA,1005e3,36200,NA,FALSE
+Male,Hispanic,Male,Hispanic,2008,36,1.29,NA,946e3,34800,NA,FALSE
+Male,Hispanic,Male,Hispanic,2009,34.8,1.38,NA,917e3,38300,NA,FALSE
+Male,Hispanic,Male,Hispanic,2010,34.2,1.22,NA,981e3,35e3,NA,FALSE
+Male,Hispanic,Male,Hispanic,2011,31.2,1.25,NA,974e3,41e3,NA,FALSE
+Male,Hispanic,Male,Hispanic,2012,28.2,1.24,NA,921e3,40700,NA,FALSE
+Male,Hispanic,Male,Hispanic,2013,28.8,1.27,NA,932e3,43300,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2000,20.3,3.25,NA,122e3,21700,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2001,15.4,2.84,NA,97e3,19500,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2002,16.2,2.01,NA,109e3,14700,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2003,15.6,2.18,NA,87e3,13100,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2004,15.1,2.13,NA,86e3,13e3,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2005,16.1,2.12,NA,86e3,11600,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2006,15.2,2.17,NA,88e3,12500,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2007,15.1,2.15,NA,91e3,13e3,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2008,11.5,1.67,NA,66e3,9600,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2009,13.8,1.78,NA,79e3,10500,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2010,14.4,1.88,NA,89e3,11900,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2011,15.4,2.67,NA,99e3,17700,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2012,14.3,1.6,NA,109e3,13e3,NA,FALSE
+Male,"Asian, non-Hispanic",Male,"Asian,
+non-Hispanic",2013,9.9,1.26,NA,8e4,1e4,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2000,35.4,8.91,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2001,31.3,7.48,NA,47e3,13600,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2002,39.4,6.17,NA,49e3,9900,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2003,26,6.49,NA,24e3,6900,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2004,36.4,7.22,NA,32e3,8e3,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2005,35.2,5.78,NA,3e4,5600,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2006,31.4,5.8,NA,21e3,6900,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2007,44.9,6.78,NA,52e3,13e3,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2008,41.5,7.2,NA,43e3,9400,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2009,25.8,4.66,NA,28e3,6300,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2010,32.5,5.36,NA,41e3,10200,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2011,26.9,6.07,NA,28e3,7500,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2012,18.3,5.07,NA,21e3,6100,NA,FALSE
+Male,"American Indian/Alaska Native, non-Hispanic",Male,"American Indian/
+Alaska Native,
+non-Hispanic",2013,24.6,5.89,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2000,16.3,0.79,NA,1401e3,72800,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2001,15.7,0.79,NA,1309e3,70500,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2002,17,0.58,NA,1445e3,52600,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2003,15.9,0.56,NA,1348e3,51200,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2004,14.7,0.54,NA,1257e3,49500,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2005,15.1,0.56,NA,1305e3,50500,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2006,14.7,0.55,NA,1273e3,50300,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2007,15.1,0.52,NA,1307e3,47100,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2008,14.2,0.53,NA,1227e3,47200,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2009,13.6,0.5,NA,1188e3,45200,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2010,14.1,0.53,NA,1239e3,48800,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2011,14.8,0.53,NA,1288e3,48e3,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2012,14.6,0.55,NA,1241e3,48400,NA,FALSE
+Female,"White, non-Hispanic",Female,"White,
+non-Hispanic",2013,12.6,0.5,NA,104e4,42100,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2000,24.9,1.89,NA,513e3,42900,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2001,25.3,1.93,NA,504e3,42500,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2002,25.5,1.36,NA,518e3,30600,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2003,26.1,1.39,NA,513e3,31500,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2004,22.6,1.35,NA,434e3,28900,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2005,23.9,1.57,NA,483e3,32400,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2006,20.4,1.22,NA,412e3,26300,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2007,21.2,1.25,NA,421e3,26600,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2008,21.7,1.35,NA,443e3,29e3,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2009,21.7,1.31,NA,451e3,28400,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2010,20.9,1.41,NA,44e4,31100,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2011,21.1,1.49,NA,457e3,33900,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2012,19.3,1.26,NA,43e4,30100,NA,FALSE
+Female,"Black, non-Hispanic",Female,"Black,
+non-Hispanic",2013,17.9,1.4,NA,404e3,32500,NA,FALSE
+Female,Hispanic,Female,Hispanic,2000,40.3,2.24,NA,758e3,52e3,NA,FALSE
+Female,Hispanic,Female,Hispanic,2001,39.1,2.04,NA,88e4,55700,NA,FALSE
+Female,Hispanic,Female,Hispanic,2002,37.7,1.43,NA,864e3,39700,NA,FALSE
+Female,Hispanic,Female,Hispanic,2003,35.8,1.45,NA,786e3,38100,NA,FALSE
+Female,Hispanic,Female,Hispanic,2004,34.7,1.41,NA,787e3,38200,NA,FALSE
+Female,Hispanic,Female,Hispanic,2005,34.2,1.36,NA,797e3,33100,NA,FALSE
+Female,Hispanic,Female,Hispanic,2006,33,1.12,NA,755e3,27900,NA,FALSE
+Female,Hispanic,Female,Hispanic,2007,31.7,1.34,NA,755e3,34700,NA,FALSE
+Female,Hispanic,Female,Hispanic,2008,29.7,1.21,NA,707e3,29900,NA,FALSE
+Female,Hispanic,Female,Hispanic,2009,27.2,1.21,NA,664e3,3e4,NA,FALSE
+Female,Hispanic,Female,Hispanic,2010,27.1,1.13,NA,705e3,30800,NA,FALSE
+Female,Hispanic,Female,Hispanic,2011,26,1.11,NA,688e3,3e4,NA,FALSE
+Female,Hispanic,Female,Hispanic,2012,24.6,1.01,NA,731e3,30400,NA,FALSE
+Female,Hispanic,Female,Hispanic,2013,22.9,1.12,NA,704e3,34800,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2000,12.3,2.72,NA,71e3,16600,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2001,11.5,2.47,NA,75e3,17100,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2002,7.6,1.46,NA,5e4,1e4,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2003,9.6,1.73,NA,55e3,10500,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2004,9.3,1.77,NA,5e4,9900,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2005,13.2,2.06,NA,74e3,11800,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2006,16.4,2.43,NA,91e3,13800,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2007,10.2,1.61,NA,61e3,9900,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2008,10.4,1.73,NA,59e3,1e4,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2009,10.3,1.61,NA,54e3,8400,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2010,9.9,1.45,NA,55e3,8300,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2011,13.9,2.36,NA,85e3,14800,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2012,9.8,1.52,NA,75e3,11900,NA,FALSE
+Female,"Asian, non-Hispanic",Female,"Asian,
+non-Hispanic",2013,12.8,1.89,NA,99e3,15100,NA,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2000,23.8,7.83,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2001,33.2,7.76,NA,48e3,13700,NA,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2002,29.2,5.39,NA,42e3,9100,NA,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2003,28.7,6.37,NA,29e3,7600,NA,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2004,42.5,7.97,NA,33e3,8e3,NA,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2005,25.9,5.5,NA,22e3,5500,NA,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2006,23.1,5.6,NA,22e3,6800,Interpret data with caution. The coefficient of variation (CV) for this estimate is between 30 and 50 percent.,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2007,20.9,4.47,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2008,31.9,6.96,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2009,19,4.09,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2010,22.8,4.54,NA,27e3,6800,NA,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2011,23.4,5.05,NA,26e3,5300,NA,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2012,31,5.53,NA,34e3,7300,NA,FALSE
+Female,"American Indian/Alaska Native, non-Hispanic",Female,"American Indian/
+Alaska Native,
+non-Hispanic",2013,9.5,2.47,NA,NA,NA,Reporting standards not met. Either there are too few cases for a reliable estimate or the coefficient of variation (CV) is 50 percent or greater.,FALSE
